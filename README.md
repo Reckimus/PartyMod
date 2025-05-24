@@ -12,3 +12,5 @@ V2.2.2 Update and Bug fixes. More protection from duplicates, Smarter Whisper Sy
 
 V2.3.0 Update Adds XP Multiplier , no more need for multiple mods to handle this
 Mod will add a config file in the BepInEx config folder you edit manually or if you use the BepInEx Config Manager you can press F1 in game to change in-game :D
+
+V2.5.3 Update SimPlayers are now properly teleporting to the player
