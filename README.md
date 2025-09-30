@@ -16,3 +16,6 @@ Mod will add a config file in the BepInEx config folder you edit manually or if 
 V2.5.3 Update SimPlayers are now properly teleporting to the player
 
 V2.5.6 Update Bug Fixes
+
+
+Update: Grouped Sims no longer submit to forceinvite (Fixes buggy interactions)
