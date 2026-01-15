@@ -17,5 +17,6 @@ V2.5.3 Update SimPlayers are now properly teleporting to the player
 
 V2.5.6 Update Bug Fixes
 
+V2.6.0 Various big fixes and update for v0.3.0
 
 Update: Grouped Sims no longer submit to forceinvite (Fixes buggy interactions)
